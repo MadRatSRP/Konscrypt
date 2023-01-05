@@ -1,0 +1,8 @@
+# directories
+.PVS-Studio
+.idea
+.gradle
+build
+
+# files
+*.iml
