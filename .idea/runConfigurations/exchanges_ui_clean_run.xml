@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="exchanges-ui clean run" type="JetRunConfigurationType">
+    <option name="MAIN_CLASS_NAME" value="MainKt" />
+    <module name="Konscrypt.exchanges-ui.jvmMain" />
+    <shortenClasspath name="NONE" />
+    <method v="2">
+      <option name="Gradle.BeforeRunTask" enabled="true" tasks="clean build" externalProjectPath="$PROJECT_DIR$/exchanges-ui" vmOptions="" scriptParameters="" />
+    </method>
+  </configuration>
+</component>

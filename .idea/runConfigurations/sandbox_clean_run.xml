@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="sandbox clean run" type="JetRunConfigurationType">
+    <option name="MAIN_CLASS_NAME" value="org.example.MainKt" />
+    <module name="Konscrypt.sandbox.main" />
+    <shortenClasspath name="NONE" />
+    <method v="2">
+      <option name="Gradle.BeforeRunTask" enabled="true" tasks="clean build" externalProjectPath="$PROJECT_DIR$/sandbox" vmOptions="" scriptParameters="" />
+    </method>
+  </configuration>
+</component>

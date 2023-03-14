@@ -1,0 +1,11 @@
+.PVS-Studio
+.gradle
+out
+
+build
+exchanges-ui/build
+general-stuff/build
+sandbox/build
+
+.idea/*
+!.idea/runConfigurations
