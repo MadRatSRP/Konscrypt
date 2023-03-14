@@ -1,10 +1,10 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="general-stuff clean run" type="JetRunConfigurationType">
+  <configuration default="false" name="general-stuff run" type="JetRunConfigurationType">
     <option name="MAIN_CLASS_NAME" value="org.example.MainKt" />
     <module name="Konscrypt.general-stuff.main" />
     <shortenClasspath name="NONE" />
     <method v="2">
-      <option name="Gradle.BeforeRunTask" enabled="true" tasks="clean build" externalProjectPath="$PROJECT_DIR$/general-stuff" vmOptions="" scriptParameters="" />
+      <option name="Make" enabled="true" />
     </method>
   </configuration>
 </component>
