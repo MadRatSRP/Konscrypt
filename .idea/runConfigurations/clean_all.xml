@@ -10,10 +10,10 @@
       </option>
       <option name="taskNames">
         <list>
+          <option value="clean" />
           <option value="exchanges-ui:clean" />
           <option value="general-stuff:clean" />
           <option value="sandbox:clean" />
-          <option value="clean" />
         </list>
       </option>
       <option name="vmOptions" />
